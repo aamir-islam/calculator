@@ -1,8 +1,34 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This project is a calculator built with React. It includes a history panel that can be shown or hidden, stores the calculation history in local storage, and provides a responsive design that adapts to different screen sizes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Tech Stack
+
+* React.JS
+
+## Data persistence
+
+* Local Storage
+
+## Features included
+* Basic Calculator Functions: Supports standard arithmetic operations (addition, subtraction, multiplication, division).
+* History Panel: Displays a history of calculations. Users can scroll through the history.
+* Responsive Design: The history panel is an overlay on smaller screens (below 576px).
+* Local Storage: Saves the calculation history in the browser’s local storage.
+* Clear History: Option to clear the history panel.
+
+## Steps to clone and run the application
+
+* git clone [https://github.com/aamir-islam/calculator](https://github.com/aamir-islam/calculator)
+
+* npm install 
+
+* npm run dev
+
+## Contact 
+
+### Email - aamirislam38@gmail.com
+
